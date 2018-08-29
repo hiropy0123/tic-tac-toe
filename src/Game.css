@@ -40,7 +40,7 @@ body {
     background: #ddd;
   }
   
-  .App {
+  .game {
     display: flex;
     flex-direction: row;
   }
